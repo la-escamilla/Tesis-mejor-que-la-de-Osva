@@ -1,0 +1,41 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Introducci\'on.}{V}{chapter*.2}
+\contentsline {chapter}{Resumen.}{VII}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Un poco de cosmolog\'ia}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}El universo homog\'eneo y su geometr\'ia}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Din\'amica}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Men\'u c\'osmico}{8}{section.1.3}
+\contentsline {section}{\numberline {1.4}Energ\'ia oscura \cite {introde}}{11}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Supernovas tipo 1a}{12}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}CMB}{14}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}BAOs}{16}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Par\'ametro de Hubble}{17}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Modelos de energ\'ia oscura}{17}{subsection.1.4.5}
+\contentsline {subsubsection}{El modelo $\Lambda $CDM}{17}{section*.9}
+\contentsline {chapter}{\numberline {2}Reconstrucciones de la energ\'ia oscura}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Reconstrucciones param\'etricas}{19}{section.2.1}
+\contentsline {section}{\numberline {2.2}PCA}{21}{section.2.2}
+\contentsline {section}{\numberline {2.3}Reconstrucciones no param\'etricas}{23}{section.2.3}
+\contentsline {chapter}{\numberline {3}Estad\'istica Bayesiana y selecci\'on de modelos}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Conceptos, definiciones y ejemplos}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2}Estimaci\'on de par\'ametros}{33}{section.3.2}
+\contentsline {section}{\numberline {3.3}Prueba de hip\'otesis (selecci\'on de modelo)}{37}{section.3.3}
+\contentsline {section}{\numberline {3.4}Cadenas de Markov}{38}{section.3.4}
+\contentsline {section}{\numberline {3.5}Cadenas de Markov Monte Carlo (MCMC)}{40}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Ejemplo de MCMC con $\Lambda $CDM}{41}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.6}AIC, AICc, BIC y DIC}{44}{section.3.6}
+\contentsline {chapter}{\numberline {4}Interpolaciones como reconstrucciones}{47}{chapter.4}
+\contentsline {section}{\numberline {4.1}Tipos de interpolaciones}{47}{section.4.1}
+\contentsline {chapter}{\numberline {5}Prueba}{53}{chapter.5}
+\contentsline {section}{\numberline {5.1}Reconstruyendo $H(z)$ con datos falsos}{53}{section.5.1}
+\contentsline {chapter}{\numberline {6}Resultados}{63}{chapter.6}
+\contentsline {section}{\numberline {6.1}Reconstrucci\'on de $F_{l}(z)$.}{63}{section.6.1}
+\contentsline {section}{\numberline {6.2}Reconstrucci\'on de $w(z)$.}{67}{section.6.2}
+\contentsline {section}{\numberline {6.3}Comparaci\'on con $\Lambda $CDM}{70}{section.6.3}
+\contentsline {chapter}{\numberline {7}Conclusiones y perspectivas.}{73}{chapter.7}
+\contentsline {section}{\numberline {7.1}$F_{luis(z)}$ c\'ubica}{73}{section.7.1}
+\contentsline {section}{\numberline {7.2}$F_{luis(z)}$ lineal}{74}{section.7.2}
+\contentsline {section}{\numberline {7.3}$w(z)$}{74}{section.7.3}
+\contentsline {section}{\numberline {7.4}Conclusi\'on final}{74}{section.7.4}
+\contentsline {section}{\numberline {7.5}Perspectivas}{75}{section.7.5}
+\contentsline {chapter}{Bibliograf\'ia}{75}{section.7.5}

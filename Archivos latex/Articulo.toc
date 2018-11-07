@@ -1,0 +1,18 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Aspectos b\'asicos de \textlatin {\LaTeX }}{1}
+\contentsline {subsection}{\numberline {1.1}Esquema de funcionamiento}{1}
+\contentsline {subsubsection}{\numberline {1.1.1}Instalaci\'on de programas}{1}
+\contentsline {subsection}{\numberline {1.2}Fichero fuente}{1}
+\contentsline {subsubsection}{\numberline {1.2.1}Pre\'ambulo}{1}
+\contentsline {subsubsection}{\numberline {1.2.2}Cuerpo}{1}
+\contentsline {section}{\numberline {2}Composici\'on de un documento}{2}
+\contentsline {section}{\numberline {3}Tipos y colores}{2}
+\contentsline {subsection}{\numberline {3.1}Unos tipos}{2}
+\contentsline {subsection}{\numberline {3.2}Otros tipos}{2}
+\contentsline {subsection}{\numberline {3.3}Unos colores}{2}
+\contentsline {subsection}{\numberline {3.4}Otros colores}{2}
+\contentsline {section}{\numberline {4}Ahora vuelvo a numerar}{2}
+\contentsline {section}{\numberline {5}Fin de la parte principal}{2}
+\contentsline {section}{\numberline {A}Primera parte del ap\'endice}{2}
+\contentsline {section}{\numberline {B}Segunda parte del ap\'endice}{2}
+\contentsline {section}{\numberline {C}\'Ultima parte del ap\'endice}{2}
